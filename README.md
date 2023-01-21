@@ -58,17 +58,10 @@
 <br>
 
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td> <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  /></td>
-    <td><img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
-    <br>
-  </tr>
-  <br>
+ 
   <!--Inicio Grafico-->
-  <a href="https://github.com/GitHubAlves/MySite/blob/main/Grafico.HTML">
- <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/Grafico.JPG" width="1600" height="200"/>
-  </a>
-    <!--Fim Grafico-->
+ 
+  <!--Fim Grafico-->
 </table>  <!--inicio da tabela dos repositórios-->
 
 | Description                                                              | Repository                                                                | 
