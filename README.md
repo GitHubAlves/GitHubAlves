@@ -1,23 +1,23 @@
 
 
 <!--comentario-->
-
+<!--Saudaçoes-->
 <h2>Hi! I am Lucas Lorenço Alves</h2><br>
 
 
 
 
 <h3>I'm currently working on <img src= "https://github.com/GitHubAlves/MySite/blob/main/imagens/%C3%ADndicehomp.jpg" width="30" height="30"/>with the Hardware</h3>
-
+<!--quabra de linha-->
 <br />
-
+<!--Tabela-->
 <table cellspacing="5" cellpadding="5" width="100%">
-  <tr> 
+  <tr> <!--Inicio Quadrado da tabela-linha-->
     <td align="center">
       <a href="https://www.linkedin.com/in/lucas-loren%C3%A7o-alves-4206b9201/">
         <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/C%2B%2B.png" width="40" height="40"/><br>C++
       </a>
-    </td>
+    </td><!--Fim Quadrado da tabela-->
     <td align="center">
       <a href="https://www.linkedin.com/in/lucas-loren%C3%A7o-alves-4206b9201/">
         <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/C.png" width="40" height="40"/><br>C
@@ -30,12 +30,12 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/lucas-loren%C3%A7o-alves-4206b9201/">
-        <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/html-5.png" height="75px"><br>HTML 5
+        <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/html-5.png" width="40" height="40"><br>HTML 5
       </a>  
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/cdk">
-        <img src="assets/svg/cdk.svg" height="75px"><br>AWS CDK
+      <a href="-----------------">
+        <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/MIPS-destaque.png.webp" width="40" height="40"><br>MIPS
       </a>
     </td>
 
