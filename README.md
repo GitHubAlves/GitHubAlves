@@ -61,11 +61,26 @@
   <tr>
     <td> <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  /></td>
     <td><img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/languages.svg" alt="Languages used" /></td>
+    <br>
   </tr>
-</table>
+  <br>
+  <!--Inicio Grafico-->
+  <a href="https://github.com/GitHubAlves/MySite/blob/main/Grafico.HTML">
+ <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/Grafico.JPG" width="1600" height="200"/>
+  </a>
+    <!--Fim Grafico-->
+</table>  <!--inicio da tabela dos repositórios-->
 
 | Description                                                              | Repository                                                                | 
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | 
-| ![](/assets/img/git-repository-line.svg) Exercise_in_Program_C           | [repository](https://github.com/GitHubAlves/Exercise_in_Program_C)                                                                    |
-| ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-material-dashboard)       | https://nextjs-material-dashboard-two.vercel.app                                  |
-| 
+| ![](/assets/img/git-repository-line.svg) Exercise_in_Program_C           | [repository](https://github.com/GitHubAlves/Exercise_in_Program_C)        |                                                                                
+| ![](/assets/img/git-repository-line.svg) Curso-C--Wagner-Rambo           | [repository](https://github.com/GitHubAlves/Curso-C--Wagner-Rambo)        |                                
+| ![](/assets/img/git-repository-line.svg) Exercise-in-Program-C++         | [repository](https://github.com/GitHubAlves/Exercise-in-Program-C-)       |                                
+| ![](/assets/img/git-repository-line.svg) Assembly                        | [repository](https://github.com/GitHubAlves/Assembly_)                    |  
+| ![](/assets/img/git-repository-line.svg) mcp22105_20222                  | [repository](https://github.com/GitHubAlves/mcp22105_20222)               |
+| ![](/assets/img/git-repository-line.svg) Desenvolvimento IOT             | [repository](https://github.com/GitHubAlves/LoraSX1276)                   |
+| ![](/assets/img/git-repository-line.svg) Projeto-Udemy                   | [repository](https://github.com/GitHubAlves/Projeto-Udemy)                |
+| ![](/assets/img/git-repository-line.svg) SX1231                          | [repository](https://github.com/GitHubAlves/SX1231)                       |
+
+
+
