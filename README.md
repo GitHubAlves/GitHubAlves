@@ -8,6 +8,12 @@
 <h3>And i am learning this technologies </h3><br>
 -->
 <!--quabra de linha-->
+
+<p>
+  Here you will find all academic works em freelancers<br>
+  about eletronic and program, some prototypes, search and expiriences
+  enjoy all it
+</p>
 <h3>I am learning this technologies on college and home in the freetime</h3><br>
 <br />
 <!--Tabela-->
