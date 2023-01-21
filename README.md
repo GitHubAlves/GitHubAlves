@@ -66,7 +66,9 @@
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
  
   <!--Inicio Grafico-->
- 
+  <a href="https://githubalves.github.io/MySite/fotos.html">
+          <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/Grafico.JPG" width="40" height="40"/><br>C++
+  </a>
   <!--Fim Grafico-->
 </table>  <!--inicio da tabela dos repositórios-->
 
