@@ -39,11 +39,12 @@
       </a>
     </td>
 
-  </tr>
-  <tr>
+  </tr><!--Fim da linha da tabela-->
+  
+  <tr> <!--Nova linha da tabela-->
     <td align="center">
-      <a href="https://aws.amazon.com/serverless">
-        <img src="assets/svg/serverless.svg"  height="75px"/><br>Serverless
+      <a href="-------------------">
+        <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/CSS.png"  height="75px"/><br>Serverless
       </a>  
     </td>
     <td align="center">
