@@ -82,6 +82,7 @@
 | ![](/assets/img/git-repository-line.svg) Desenvolvimento IOT             | [repository](https://github.com/GitHubAlves/LoraSX1276)                   |
 | ![](/assets/img/git-repository-line.svg) Projeto-Udemy                   | [repository](https://github.com/GitHubAlves/Projeto-Udemy)                |
 | ![](/assets/img/git-repository-line.svg) SX1231                          | [repository](https://github.com/GitHubAlves/SX1231)                       |
+| ![](/assets/img/git-repository-line.svg) Projeto Final de Estagio        | [repository](https://github.com/GitHubAlves/SX1231)                       |
 
 
 
