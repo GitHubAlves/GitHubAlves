@@ -66,7 +66,7 @@
 <table align="left" cellspacing="0" cellpadding="0" width="100%">
  
   <!--Inicio Grafico-->
-  <a href="https://githubalves.github.io/MySite/fotos.html">
+ <!-- <a href="https://githubalves.github.io/MySite/fotos.html">-->
           <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/Grafico.JPG" width="400" height="150"/><br>
   </a>
   <!--Fim Grafico-->
