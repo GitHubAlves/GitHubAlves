@@ -68,8 +68,8 @@
   <!--Inicio Grafico-->
  <!-- <a href="https://githubalves.github.io/MySite/fotos.html">-->
           <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/Grafico.JPG" width="400" height="150"/><br>
-  </a>
-  <!--Fim Grafico-->
+  
+  <!--Fim Grafico</a>-->
 </table>  <!--inicio da tabela dos repositórios-->
 
 | Description                                                              | Repository                                                                | 
