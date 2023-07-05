@@ -2,7 +2,7 @@
 
 <!--comentario-->
 <!--Saudaçoes-->
-<h2>Hi! I am Lucas Lorenço Alves</h2><br>
+<h2>Hi! II am Lucas Lorenço Alves</h2><br>
 <!--
 <h3>I'm currently working on <img src= "https://github.com/GitHubAlves/MySite/blob/main/imagens/%C3%ADndicehomp.jpg" width="30" height="30"/>with the Hardware</h3>
 <h3>And i am learning this technologies </h3><br>
