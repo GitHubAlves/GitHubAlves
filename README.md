@@ -36,7 +36,7 @@
     </td>
      <td align="center">
       <a href="https://www.linkedin.com/in/lucas-loren%C3%A7o-alves-4206b9201/">
-        <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/altium-designer.png" width="40" height="40"/><br>Altium Desinger
+        <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/Qt.png" width="40" height="40"/><br>Altium Desinger
       </a>  
     </td>    
     <td align="center">
