@@ -21,7 +21,7 @@
   <tr> <!--Inicio Quadrado da tabela-linha-->
        <td align="center">
           <a href="https://www.linkedin.com/in/lucas-loren%C3%A7o-alves-4206b9201/">
-          <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/C%2B%2B.png" width="40" height="40"/><br>C++
+          <img src="https://github.com/GitHubAlves/MySite/blob/main/imagens/C%2B%2B.png" width="80" height="40"/><br>C++
           </a>
        </td><!--Fim da primeira linha da tabela-->
     <td align="center">
