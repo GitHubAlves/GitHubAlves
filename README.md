@@ -89,7 +89,7 @@
 | ![](/assets/img/git-repository-line.svg) SX1231                          | [repository](https://github.com/GitHubAlves/SX1231)                       |
 | ![](/assets/img/git-repository-line.svg) Projeto Final de Estagio        | [repository](https://github.com/GitHubAlves/Projeto-Final-de-Estagio)     |
 | ![](/assets/img/git-repository-line.svg) Prog22107-231                   | [repository](https://github.com/GitHubAlves/Prog22107-231)                |
-| ![](/assets/img/git-repository-line.svg) Prog22107-231                   | [repository]( https://githubalves.github.io/REAA-Recurso-Educacional-Academico/)                |
+| ![](/assets/img/git-repository-line.svg) REAA                            | [repository]( https://githubalves.github.io/REAA-Recurso-Educacional-Academico/)                |
 
 
 
